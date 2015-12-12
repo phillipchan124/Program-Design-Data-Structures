@@ -1,0 +1,1 @@
+1. Kwun Hang Chan2. I took COMSC 165 in Summer 2015. My professor is Faramarz Mortezaie. I take an introduction class in El Camino College, Torrance, CA to fulfill the requirement for COMSC 110.3. Compliers: Apple LLVM version 6.1.0 (clang-602.0.53) (based on LLVM 3.6.0svn)4. Xcode
